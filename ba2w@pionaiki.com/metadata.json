@@ -1,0 +1,9 @@
+{
+  "description": "A small extension to use the 2nd workspace after login.",
+  "name": "Begin at 2nd Workplace",
+  "settings-schema": "org.gnome.shell.extensions.ba2w",
+  "shell-version": ["42"],
+  "url": "https://github.com/pionaiki",
+  "uuid": "ba2w@pionaiki.com",
+  "version": 1
+}
